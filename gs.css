@@ -1,0 +1,74 @@
+.name{
+    font-family: sans-serif;
+    font-size: medium;
+    color: black;
+}
+.actno{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    font-weight: bold;
+    color: black;
+}
+.actors{
+    font-family: 'Segoe UI';
+    color: green;
+}
+.lyrics{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+    color: black;
+}
+h6.speech{
+    font-size: 20px;
+}
+.speech{
+    font-family:  Courier, monospace;
+    font-size: small;
+    color: black;
+}
+
+.direction-1, .direction-2, .direction-3, .direction-4{
+    font-weight: bold;
+    color: blue;
+    background-color: bisque;
+}
+
+.direction-1:hover{
+    background-color: chartreuse;
+    color: maroon;
+}
+
+.direction-2:hover{
+    background-color: chartreuse;
+    color: maroon;
+}
+
+.direction-3:hover{
+    background-color: chartreuse;
+    color: maroon;
+}
+.direction-4:hover{
+    background-color: chartreuse;
+    color: maroon;
+}
+
+.Calynx{
+    color: blue;
+    font-size: 15px;
+}
+
+.Salata{
+    color: orange;
+    font-size: 15px;
+
+}
+
+.Tarara{
+    color: gold;
+    font-size: 15px;
+}
+
+.Melene{
+    color: tomato;
+    font-size: 15px;
+}
