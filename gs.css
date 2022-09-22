@@ -72,3 +72,19 @@ h6.speech{
     color: tomato;
     font-size: 15px;
 }
+
+table{
+    font-family: sans-serif;
+}
+
+th, td{
+    padding:.25em .5em;
+    text-align:left;
+    }
+td {
+        background-color:#eee;    
+}
+th {
+        background-color:#009;
+        color:#fff;
+    }
