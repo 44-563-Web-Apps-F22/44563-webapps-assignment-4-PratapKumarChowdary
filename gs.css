@@ -88,3 +88,25 @@ th {
         background-color:#009;
         color:#fff;
     }
+.title-2{
+    text-align: center;
+    font-family: Verdana;
+    color:slateblue;
+}
+.lyrics-2{
+    font-family:  Courier, monospace;
+    font-size: small;
+    color: indigo;
+}
+
+.Scaphio{
+    color: orange;
+    font-size: 15px;
+
+}
+
+.Phantis{
+    color: gold;
+    font-size: 15px;
+}
+
